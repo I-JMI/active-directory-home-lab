@@ -30,7 +30,7 @@ Forest Name: jaimiesupport.local
 
 Result: The server was promoted to a Domain Controller, and the DNS role was automatically configured.  
 
-![Active Directory Installation Progress](af-install-progress.png)
+![Active Directory Installation Progress](ad-install-progress.png)
 ![Verified Domain Administrator Login](server-domain-login.png)
 
 ## 🧠 Lessons Learned & Troubleshooting
