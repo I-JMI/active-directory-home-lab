@@ -29,11 +29,13 @@ Forest Name: jaimiesupport.local
 
 Result: The server was promoted to a Domain Controller, and the DNS role was automatically configured.  
 
-![AD Installation](NAME_OF_YOUR_AD_INSTALL_IMAGE.png)
+![Active Directory Installation Progress](af-install-progress.png)
 
 ## 🧠 Lessons Learned & Troubleshooting
 ### The DNS Handshake
 The most significant challenge was a connection failure when joining the Windows 10 Client to the domain[cite: 1]. I diagnosed this as a DNS resolution issue. By manually configuring the Client's IPv4 settings to point to the Server's IP as the primary DNS, I established a successful "handshake" between the machines[cite: 1].
+![Domain Join Error](domain-join-error.png)
+![DNS Fix on Client](dns-fix-on-client.png)
 
 ## 🖼️ Success Evidence
 ### 1. Active Directory User Created
