@@ -54,5 +54,5 @@ The workstation successfully joined the `jaimiesupport.local` domain.
 ### 3. Successful Authentication
 Logged in as `jdoe` and verified identity using the `whoami` command.
 
-![WhoAmI Victory](whoami_vistory.png)
+![WhoAmI Victory](whoami_victory.png)
 ![Windows 10 Domain User Login](client-domain-login.png)
