@@ -18,6 +18,7 @@ VirtualBox Settings: Both VMs were set to an Internal Network named lab-network.
 Static IP Assignment: I manually configured the Server to 10.0.0.1 and the Client to 10.0.0.2 to ensure consistent communication.  
 
 ![Network Settings](vbox-internal-network.png)
+![Server Static IP Configuration](server-ip-config.png)
 
 Phase 2: Domain Controller Promotion
 I installed Active Directory Domain Services (AD DS) on the Windows Server 2022 VM.  
