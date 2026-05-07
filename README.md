@@ -11,7 +11,7 @@
 ---
 
 # 📑 Table of Contents
-* [🔹 Overview](#-overview)
+* [📌 Overview](#-overview)
 * [🌐 Phase 1: Virtual Network Configuration](#-phase-1--virtual-network--static-ip-configuration)
 * [🏢 Phase 2: Active Directory Deployment](#-phase-2--active-directory-deployment)
 * [🧠 Phase 3: DNS Troubleshooting](#-phase-3--dns-troubleshooting--resolution)
