@@ -1,14 +1,3 @@
-# 📑 Table of Contents
-* [🔹 Overview](#-overview)
-* [🌐 Phase 1: Virtual Network Configuration](#-phase-1--virtual-network--static-ip-configuration)
-* [🏢 Phase 2: Active Directory Deployment](#-phase-2--active-directory-deployment)
-* [🧠 Phase 3: DNS Troubleshooting](#-phase-3--dns-troubleshooting--resolution)
-* [✅ Phase 4: Domain Join & Validation](#-phase-4--domain-validation--domain-join)
-* [⚡ Phase 5: PowerShell Automation](#-phase-5--powershell-automation-the-1-second-setup)
-* [🔐 Phase 6: Security Hardening (GPO)](#-phase-6--security-hardening--gpo)
-* [📊 Phase 7: SOC Monitoring (Audit Logs)](#-phase-7--soc-monitoring--audit-logs)
-* [🚀 Skills Demonstrated](#-skills-demonstrated)
-
 ---
 
 # 💻 Windows Server 2022: Automated & Secure AD Home Lab
@@ -20,6 +9,18 @@
 ![GPO](https://img.shields.io/badge/Security-GPO_Hardening-red)
 
 ---
+
+# 📑 Table of Contents
+* [🔹 Overview](#-overview)
+* [🌐 Phase 1: Virtual Network Configuration](#-phase-1--virtual-network--static-ip-configuration)
+* [🏢 Phase 2: Active Directory Deployment](#-phase-2--active-directory-deployment)
+* [🧠 Phase 3: DNS Troubleshooting](#-phase-3--dns-troubleshooting--resolution)
+* [✅ Phase 4: Domain Join & Validation](#-phase-4--domain-validation--domain-join)
+* [⚡ Phase 5: PowerShell Automation](#-phase-5--powershell-automation-the-1-second-setup)
+* [🔐 Phase 6: Security Hardening (GPO)](#-phase-6--security-hardening--gpo)
+* [📊 Phase 7: SOC Monitoring (Audit Logs)](#-phase-7--soc-monitoring--audit-logs)
+* [🚀 Skills Demonstrated](#-skills-demonstrated)
+
 
 # 🔹 Overview
 This lab demonstrates the evolution from basic infrastructure setup to **Advanced System Administration**. I built a virtualized enterprise environment that manages identities, uses **PowerShell automation** to provision users, and enforces a security baseline via **Group Policy Objects (GPOs)**.
